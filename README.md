@@ -22,11 +22,16 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## Installation Instructions.
-This application uses mongoose,
+This application uses mongoose and express.
 
 ## Usage Information.
+Tested in MongoDB,
+- Clone this repo, from the file open a terminal and run <$ npm i && npm run seed> this will install npm dependencies and seed our data
+- from that same terminal run <$ node index.js> to sucessfully connect to mongoDB server.
 
 ## Demo.
+https://watch.screencastify.com/v/8RjlQzysOuHkcRBMFviX
+![Screenshot 2024-02-19 164405](https://github.com/EChrist01/social-network-api/assets/146894896/7626ea65-bd96-407c-8384-8a1b1c26e0fd)
 
 
 ## Questions
