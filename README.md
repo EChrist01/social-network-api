@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-1. [Description]()
-2. [Installation]()
-3. [Usage]()
-4. [Demo]()
-5. [Questions]()
+1. [Description](https://github.com/EChrist01/social-network-api#description)
+2. [Installation](https://github.com/EChrist01/social-network-api#installation-instructions)
+3. [Usage](https://github.com/EChrist01/social-network-api#usage-information)
+4. [Demo](https://github.com/EChrist01/social-network-api#demo)
+5. [Questions](https://github.com/EChrist01/social-network-api#questions)
 
 ## Description.
 API for a social network web application where users can share their thoughts
